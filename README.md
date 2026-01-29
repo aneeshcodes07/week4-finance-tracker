@@ -43,24 +43,43 @@ The application combines concepts learned across **Weeks 1–4**, including Pyth
 
 
 week4-finance-tracker/
+
 │── finance_tracker/
+
 │ ├── init.py
+
 │ ├── main.py
+
 │ ├── expense.py
+
 │ ├── expense_manager.py
+
 │ ├── file_handler.py
+
 │ ├── reports.py
+
 │ └── utils.py
+
 │
+
 │── data/
+
 │ ├── expenses.json
+
 │ ├── backup/
+
 │ └── exports/
+
 │
+
 │── README.md
+
 │── requirements.txt
+
 │── .gitignore
+
 │── run.py
+
 
 
 
@@ -86,6 +105,7 @@ Reload saved data when the program restarts
 
 View categorized expense reports
 
+----------------------------------------------------------
 
 Learning Outcomes
 
@@ -97,6 +117,7 @@ Understood modular programming and clean project architecture
 
 Built a practical, real-world Python application
 
+----------------------------------------------------------
 
 Conclusion
 
